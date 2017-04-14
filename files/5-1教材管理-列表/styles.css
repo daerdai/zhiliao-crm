@@ -302,7 +302,6 @@
   left:2px;
   top:45px;
   width:449px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u1048_img {
@@ -827,6 +826,31 @@
   left:2px;
   top:13px;
   width:75px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1090_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:154px;
+  height:44px;
+}
+#u1090 {
+  border-width:0px;
+  position:absolute;
+  left:156px;
+  top:275px;
+  width:154px;
+  height:44px;
+}
+#u1091 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:14px;
+  width:150px;
   visibility:hidden;
   word-wrap:break-word;
 }
