@@ -1,0 +1,119 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1920px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u154_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1920px;
+  height:1168px;
+}
+#u154 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1920px;
+  height:1168px;
+}
+#u155 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:576px;
+  width:1916px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u156 {
+  border-width:0px;
+  position:absolute;
+  left:1062px;
+  top:110px;
+  width:124px;
+  height:44px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u157 {
+  border-width:0px;
+  position:absolute;
+  left:1196px;
+  top:110px;
+  width:81px;
+  height:44px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u158 {
+  border-width:0px;
+  position:absolute;
+  left:1300px;
+  top:110px;
+  width:81px;
+  height:44px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u159 {
+  border-width:0px;
+  position:absolute;
+  left:1409px;
+  top:110px;
+  width:81px;
+  height:44px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u160 {
+  border-width:0px;
+  position:absolute;
+  left:1511px;
+  top:110px;
+  width:81px;
+  height:44px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u161 {
+  border-width:0px;
+  position:absolute;
+  left:1615px;
+  top:110px;
+  width:81px;
+  height:44px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u162 {
+  border-width:0px;
+  position:absolute;
+  left:1713px;
+  top:110px;
+  width:81px;
+  height:44px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u163 {
+  border-width:0px;
+  position:absolute;
+  left:1821px;
+  top:110px;
+  width:81px;
+  height:44px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
