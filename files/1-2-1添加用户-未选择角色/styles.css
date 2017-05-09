@@ -57,3 +57,28 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u11_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:104px;
+  height:40px;
+}
+#u11 {
+  border-width:0px;
+  position:absolute;
+  left:1800px;
+  top:119px;
+  width:104px;
+  height:40px;
+}
+#u12 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:100px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
