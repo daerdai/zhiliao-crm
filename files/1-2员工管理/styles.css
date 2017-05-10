@@ -480,3 +480,36 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u35_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:43px;
+  height:48px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#FF0000;
+}
+#u35 {
+  border-width:0px;
+  position:absolute;
+  left:1004px;
+  top:106px;
+  width:43px;
+  height:48px;
+  color:#FF0000;
+}
+#u36 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:43px;
+  white-space:nowrap;
+}
