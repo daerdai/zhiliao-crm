@@ -12,15 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u781_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1920px;
-  height:1000px;
-}
-#u781 {
+#u782_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -31,13 +23,21 @@
 #u782 {
   border-width:0px;
   position:absolute;
+  left:0px;
+  top:0px;
+  width:1920px;
+  height:1000px;
+}
+#u783 {
+  border-width:0px;
+  position:absolute;
   left:2px;
   top:492px;
   width:1916px;
   visibility:hidden;
   word-wrap:break-word;
 }
-#u783 {
+#u784 {
   border-width:0px;
   position:absolute;
   left:1415px;

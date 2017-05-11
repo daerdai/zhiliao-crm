@@ -137,3 +137,13 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u248 {
+  border-width:0px;
+  position:absolute;
+  left:1807px;
+  top:163px;
+  width:102px;
+  height:52px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
