@@ -37,33 +37,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u66_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:170px;
-  height:170px;
-}
 #u66 {
-  border-width:0px;
-  position:absolute;
-  left:428px;
-  top:164px;
-  width:170px;
-  height:170px;
-  font-size:20px;
-  color:#FF0000;
-}
-#u67 {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:73px;
-  width:166px;
-  word-wrap:break-word;
-}
-#u68 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -71,12 +45,12 @@
   width:0px;
   height:0px;
 }
-#u69_div {
+#u67_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:113px;
+  width:223px;
   height:25px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -86,24 +60,24 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u69 {
+#u67 {
   border-width:0px;
   position:absolute;
   left:318px;
   top:63px;
-  width:113px;
+  width:223px;
   height:25px;
 }
-#u70 {
+#u68 {
   border-width:0px;
   position:absolute;
   left:2px;
   top:4px;
-  width:109px;
+  width:219px;
   visibility:hidden;
   word-wrap:break-word;
 }
-#u71_div {
+#u69_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -119,7 +93,7 @@
   box-shadow:none;
   color:#FF0000;
 }
-#u71 {
+#u69 {
   border-width:0px;
   position:absolute;
   left:318px;
@@ -128,11 +102,63 @@
   height:16px;
   color:#FF0000;
 }
-#u72 {
+#u70 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:223px;
   white-space:nowrap;
+}
+#u71 {
+  border-width:0px;
+  position:absolute;
+  left:1812px;
+  top:109px;
+  width:100px;
+  height:46px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u72 {
+  border-width:0px;
+  position:absolute;
+  left:1301px;
+  top:490px;
+  width:52px;
+  height:46px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u73_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:146px;
+  height:38px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u73 {
+  border-width:0px;
+  position:absolute;
+  left:1753px;
+  top:490px;
+  width:146px;
+  height:38px;
+}
+#u74 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:11px;
+  width:142px;
+  visibility:hidden;
+  word-wrap:break-word;
 }
