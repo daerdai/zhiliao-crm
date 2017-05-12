@@ -45,3 +45,28 @@
   width:1px;
   height:1px;
 }
+#u6_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:72px;
+  height:37px;
+}
+#u6 {
+  border-width:0px;
+  position:absolute;
+  left:605px;
+  top:116px;
+  width:72px;
+  height:37px;
+}
+#u7 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:68px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
