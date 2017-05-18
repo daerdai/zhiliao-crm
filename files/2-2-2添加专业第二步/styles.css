@@ -622,3 +622,28 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u192_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:86px;
+  height:36px;
+}
+#u192 {
+  border-width:0px;
+  position:absolute;
+  left:1684px;
+  top:962px;
+  width:86px;
+  height:36px;
+}
+#u193 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:82px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
