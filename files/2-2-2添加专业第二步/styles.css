@@ -559,3 +559,34 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u186_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:64px;
+  height:24px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u186 {
+  border-width:0px;
+  position:absolute;
+  left:332px;
+  top:804px;
+  width:64px;
+  height:24px;
+}
+#u187 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:60px;
+  word-wrap:break-word;
+}
