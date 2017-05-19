@@ -57,3 +57,36 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u198_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#FF0000;
+}
+#u198 {
+  border-width:0px;
+  position:absolute;
+  left:1055px;
+  top:296px;
+  width:239px;
+  height:16px;
+  color:#FF0000;
+}
+#u199 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  white-space:nowrap;
+}
