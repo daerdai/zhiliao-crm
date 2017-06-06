@@ -12,53 +12,28 @@
   position:absolute;
   z-index:0;
 }
-#u444_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1920px;
-  height:1168px;
-}
-#u444 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1920px;
-  height:1168px;
-}
-#u445 {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:576px;
-  width:1916px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
 #u446_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:50px;
-  height:28px;
+  width:1920px;
+  height:1168px;
 }
 #u446 {
   border-width:0px;
   position:absolute;
-  left:798px;
-  top:182px;
-  width:50px;
-  height:28px;
+  left:0px;
+  top:0px;
+  width:1920px;
+  height:1168px;
 }
 #u447 {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:6px;
-  width:46px;
+  top:576px;
+  width:1916px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -73,7 +48,7 @@
 #u448 {
   border-width:0px;
   position:absolute;
-  left:935px;
+  left:798px;
   top:182px;
   width:50px;
   height:28px;
@@ -98,7 +73,7 @@
 #u450 {
   border-width:0px;
   position:absolute;
-  left:1084px;
+  left:935px;
   top:182px;
   width:50px;
   height:28px;
@@ -123,7 +98,7 @@
 #u452 {
   border-width:0px;
   position:absolute;
-  left:1258px;
+  left:1084px;
   top:182px;
   width:50px;
   height:28px;
@@ -137,7 +112,32 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u454_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:50px;
+  height:28px;
+}
 #u454 {
+  border-width:0px;
+  position:absolute;
+  left:1258px;
+  top:182px;
+  width:50px;
+  height:28px;
+}
+#u455 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:6px;
+  width:46px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u456 {
   border-width:0px;
   position:absolute;
   left:1806px;
@@ -147,7 +147,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u455 {
+#u457 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -155,7 +155,7 @@
   width:0px;
   height:0px;
 }
-#u456_img {
+#u458_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -163,7 +163,7 @@
   width:276px;
   height:276px;
 }
-#u456 {
+#u458 {
   border-width:0px;
   position:absolute;
   left:701px;
@@ -171,7 +171,7 @@
   width:276px;
   height:276px;
 }
-#u457 {
+#u459 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -180,7 +180,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u458 {
+#u460 {
   border-width:0px;
   position:absolute;
   left:701px;
@@ -190,7 +190,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u459 {
+#u461 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -198,7 +198,7 @@
   width:0px;
   height:0px;
 }
-#u460_img {
+#u462_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -206,7 +206,7 @@
   width:276px;
   height:276px;
 }
-#u460 {
+#u462 {
   border-width:0px;
   position:absolute;
   left:1369px;
@@ -214,7 +214,7 @@
   width:276px;
   height:276px;
 }
-#u461 {
+#u463 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -223,7 +223,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u462 {
+#u464 {
   border-width:0px;
   position:absolute;
   left:1369px;
@@ -233,7 +233,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u463_div {
+#u465_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -249,7 +249,7 @@
   box-shadow:none;
   color:#FF0000;
 }
-#u463 {
+#u465 {
   border-width:0px;
   position:absolute;
   left:805px;
@@ -258,7 +258,7 @@
   height:16px;
   color:#FF0000;
 }
-#u464 {
+#u466 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -266,7 +266,7 @@
   width:99px;
   white-space:nowrap;
 }
-#u465_div {
+#u467_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -285,7 +285,7 @@
   font-style:normal;
   font-size:14px;
 }
-#u465 {
+#u467 {
   border-width:0px;
   position:absolute;
   left:1645px;
@@ -297,7 +297,7 @@
   font-style:normal;
   font-size:14px;
 }
-#u466 {
+#u468 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -305,7 +305,7 @@
   width:72px;
   word-wrap:break-word;
 }
-#u467_div {
+#u469_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -321,7 +321,7 @@
   box-shadow:none;
   color:#FF0000;
 }
-#u467 {
+#u469 {
   border-width:0px;
   position:absolute;
   left:359px;
@@ -330,7 +330,7 @@
   height:96px;
   color:#FF0000;
 }
-#u468 {
+#u470 {
   border-width:0px;
   position:absolute;
   left:0px;
