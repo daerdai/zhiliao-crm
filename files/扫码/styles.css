@@ -37,3 +37,13 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u62 {
+  border-width:0px;
+  position:absolute;
+  left:838px;
+  top:119px;
+  width:252px;
+  height:254px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

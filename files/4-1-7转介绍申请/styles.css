@@ -12,15 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u1411_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1920px;
-  height:1168px;
-}
-#u1411 {
+#u1412_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -31,13 +23,21 @@
 #u1412 {
   border-width:0px;
   position:absolute;
+  left:0px;
+  top:0px;
+  width:1920px;
+  height:1168px;
+}
+#u1413 {
+  border-width:0px;
+  position:absolute;
   left:2px;
   top:576px;
   width:1916px;
   visibility:hidden;
   word-wrap:break-word;
 }
-#u1413 {
+#u1414 {
   border-width:0px;
   position:absolute;
   left:846px;
@@ -47,7 +47,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u1414_img {
+#u1415_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -55,7 +55,7 @@
   width:104px;
   height:40px;
 }
-#u1414 {
+#u1415 {
   border-width:0px;
   position:absolute;
   left:1801px;
@@ -63,7 +63,7 @@
   width:104px;
   height:40px;
 }
-#u1415 {
+#u1416 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -72,7 +72,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u1416 {
+#u1417 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -80,7 +80,7 @@
   width:0px;
   height:0px;
 }
-#u1417_div {
+#u1418_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -95,7 +95,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1417 {
+#u1418 {
   border-width:0px;
   position:absolute;
   left:425px;
@@ -103,7 +103,7 @@
   width:113px;
   height:25px;
 }
-#u1418 {
+#u1419 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -112,7 +112,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u1419_div {
+#u1420_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -128,7 +128,7 @@
   box-shadow:none;
   color:#FF0000;
 }
-#u1419 {
+#u1420 {
   border-width:0px;
   position:absolute;
   left:425px;
@@ -137,7 +137,7 @@
   height:16px;
   color:#FF0000;
 }
-#u1420 {
+#u1421 {
   border-width:0px;
   position:absolute;
   left:0px;

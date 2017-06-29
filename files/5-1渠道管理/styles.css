@@ -12,15 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u1535_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1920px;
-  height:1000px;
-}
-#u1535 {
+#u1536_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -31,13 +23,21 @@
 #u1536 {
   border-width:0px;
   position:absolute;
+  left:0px;
+  top:0px;
+  width:1920px;
+  height:1000px;
+}
+#u1537 {
+  border-width:0px;
+  position:absolute;
   left:2px;
   top:492px;
   width:1916px;
   visibility:hidden;
   word-wrap:break-word;
 }
-#u1537 {
+#u1538 {
   border-width:0px;
   position:absolute;
   left:1803px;
@@ -47,7 +47,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u1538_img {
+#u1539_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -55,7 +55,7 @@
   width:50px;
   height:28px;
 }
-#u1538 {
+#u1539 {
   border-width:0px;
   position:absolute;
   left:1362px;
@@ -63,7 +63,7 @@
   width:50px;
   height:28px;
 }
-#u1539 {
+#u1540 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -72,7 +72,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u1540_div {
+#u1541_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -88,7 +88,7 @@
   box-shadow:none;
   color:#FF0000;
 }
-#u1540 {
+#u1541 {
   border-width:0px;
   position:absolute;
   left:463px;
@@ -97,7 +97,7 @@
   height:96px;
   color:#FF0000;
 }
-#u1541 {
+#u1542 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -105,7 +105,7 @@
   width:144px;
   word-wrap:break-word;
 }
-#u1542_div {
+#u1543_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -120,7 +120,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1542 {
+#u1543 {
   border-width:0px;
   position:absolute;
   left:1398px;
@@ -128,7 +128,7 @@
   width:44px;
   height:38px;
 }
-#u1543 {
+#u1544 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -137,7 +137,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u1544_div {
+#u1545_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -153,7 +153,7 @@
   box-shadow:none;
   color:#FF0000;
 }
-#u1544 {
+#u1545 {
   border-width:0px;
   position:absolute;
   left:1582px;
@@ -162,7 +162,7 @@
   height:48px;
   color:#FF0000;
 }
-#u1545 {
+#u1546 {
   border-width:0px;
   position:absolute;
   left:0px;

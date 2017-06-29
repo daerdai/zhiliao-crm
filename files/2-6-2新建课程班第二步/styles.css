@@ -12,15 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u613_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1920px;
-  height:1568px;
-}
-#u613 {
+#u614_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -31,13 +23,21 @@
 #u614 {
   border-width:0px;
   position:absolute;
+  left:0px;
+  top:0px;
+  width:1920px;
+  height:1568px;
+}
+#u615 {
+  border-width:0px;
+  position:absolute;
   left:2px;
   top:776px;
   width:1916px;
   visibility:hidden;
   word-wrap:break-word;
 }
-#u615 {
+#u616 {
   border-width:0px;
   position:absolute;
   left:1802px;
@@ -47,7 +47,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u616 {
+#u617 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -55,7 +55,7 @@
   width:0px;
   height:0px;
 }
-#u617_img {
+#u618_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -63,7 +63,7 @@
   width:208px;
   height:256px;
 }
-#u617 {
+#u618 {
   border-width:0px;
   position:absolute;
   left:361px;
@@ -71,7 +71,7 @@
   width:208px;
   height:256px;
 }
-#u618 {
+#u619 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -80,7 +80,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u619 {
+#u620 {
   border-width:0px;
   position:absolute;
   left:361px;
@@ -90,7 +90,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u620 {
+#u621 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -98,7 +98,7 @@
   width:0px;
   height:0px;
 }
-#u621_img {
+#u622_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -106,7 +106,7 @@
   width:208px;
   height:256px;
 }
-#u621 {
+#u622 {
   border-width:0px;
   position:absolute;
   left:606px;
@@ -114,7 +114,7 @@
   width:208px;
   height:256px;
 }
-#u622 {
+#u623 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -123,7 +123,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u623 {
+#u624 {
   border-width:0px;
   position:absolute;
   left:606px;
@@ -133,7 +133,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u624_div {
+#u625_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -148,7 +148,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u624 {
+#u625 {
   border-width:0px;
   position:absolute;
   left:1307px;
@@ -156,7 +156,7 @@
   width:30px;
   height:22px;
 }
-#u625 {
+#u626 {
   border-width:0px;
   position:absolute;
   left:2px;
